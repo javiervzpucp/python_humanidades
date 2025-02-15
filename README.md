@@ -49,15 +49,16 @@ Este curso introduce a los estudiantes de **Humanidades Digitales** a la **progr
 - APIs de IA para análisis de datos  
 - Mini proyecto 5  
 
-## Instalación de Librerías  
-Para ejecutar correctamente el código del curso, instala todas las dependencias necesarias con:  
-```bash
-pip install pandas matplotlib nltk spacy geopandas networkx requests scikit-learn pillow pytest
-
 ## Cómo Contribuir
 Si deseas mejorar el curso, puedes:
 
 Hacer un fork en GitHub y enviar un pull request con mejoras.
 Reportar errores o sugerir contenido en la sección de Issues.
+
+## Instalación de Librerías  
+Para ejecutar correctamente el código del curso, instala todas las dependencias necesarias con:  
+```bash
+pip install pandas matplotlib nltk spacy geopandas networkx requests scikit-learn pillow pytest
+
 
 
