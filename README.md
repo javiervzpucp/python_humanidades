@@ -1,9 +1,9 @@
-# Programación en Python para Humanidades Digitales  
+# Programación en Python para Humanidades  
 **Autor:** Javier Vera Zúñiga  
 Departamento de Humanidades, PUCP  
 
 ## Descripción  
-Este curso introduce a los estudiantes de **Humanidades Digitales** a la **programación en Python**. A lo largo de **10 semanas**, los participantes aprenderán desde los fundamentos hasta aplicaciones avanzadas como **procesamiento de texto, visualización de datos, mapas históricos, machine learning y APIs de IA**.  
+Este curso introduce a los estudiantes de **Humanidades** a la **programación en Python**. A lo largo de **10 semanas**, los participantes aprenderán desde los fundamentos hasta aplicaciones avanzadas como **procesamiento de texto, visualización de datos, mapas históricos, machine learning y APIs de IA**.  
 
 **Modalidad:** Práctico, con ejercicios, mini proyectos y evaluaciones automáticas.  
 **Software recomendado:** **Spyder (Anaconda)**  
