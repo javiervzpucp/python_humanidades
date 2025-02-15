@@ -54,12 +54,7 @@ Para ejecutar correctamente el código del curso, instala todas las dependencias
 ```bash
 pip install pandas matplotlib nltk spacy geopandas networkx requests scikit-learn pillow pytest
 
-## Evaluaciones Automáticas con pytest
-```bash
-pytest test_tareas.py
-
 ## Cómo Contribuir
-
 Si deseas mejorar el curso, puedes:
 
 Hacer un fork en GitHub y enviar un pull request con mejoras.
